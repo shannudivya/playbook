@@ -1,0 +1,12 @@
+---
+- name: Create file on all servers
+  hosts: all
+  tasks:
+    - name: File Creation
+      file:
+        name: /tmp/file100
+        state: touch
+        owner: shannudivya
+        group: shannu
+        mode: 750
+...

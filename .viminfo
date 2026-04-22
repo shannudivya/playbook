@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1776861551,,"wq"
+|2,0,1776862595,,"wq"
 :q!
 |2,0,1776859650,,"q!"
 
@@ -27,36 +27,120 @@
 # Registers:
 
 # File marks:
-'0  11  0  ~/playbook2.yml
-|4,48,11,0,1776861551,"~/playbook2.yml"
-'1  9  24  ~/playbook2.yml
-|4,49,9,24,1776861002,"~/playbook2.yml"
-'2  9  24  ~/playbook2.yml
-|4,50,9,24,1776861002,"~/playbook2.yml"
-'3  9  27  ~/playbook2.yml
-|4,51,9,27,1776860817,"~/playbook2.yml"
-'4  9  27  ~/playbook2.yml
-|4,52,9,27,1776860817,"~/playbook2.yml"
-'5  11  2  ~/playbook2.yml
-|4,53,11,2,1776860817,"~/playbook2.yml"
-'6  11  2  ~/playbook2.yml
-|4,54,11,2,1776860817,"~/playbook2.yml"
-'7  1  41  ~/playbook2.yml
-|4,55,1,41,1776860569,"~/playbook2.yml"
-'8  2  38  ~/playbook2.yml
-|4,56,2,38,1776860569,"~/playbook2.yml"
-'9  1  41  ~/playbook2.yml
-|4,57,1,41,1776860569,"~/playbook2.yml"
+'0  9  25  ~/playbook3.yml
+|4,48,9,25,1776862595,"~/playbook3.yml"
+'1  1  177  ~/playbook3.yml
+|4,49,1,177,1776862459,"~/playbook3.yml"
+'2  11  4  ~/playbook3.yml
+|4,50,11,4,1776862459,"~/playbook3.yml"
+'3  1  193  ~/playbook3.yml
+|4,51,1,193,1776862320,"~/playbook3.yml"
+'4  1  193  ~/playbook3.yml
+|4,52,1,193,1776862320,"~/playbook3.yml"
+'5  12  6  ~/playbook3.yml
+|4,53,12,6,1776862320,"~/playbook3.yml"
+'6  12  6  ~/playbook3.yml
+|4,54,12,6,1776862320,"~/playbook3.yml"
+'7  11  0  ~/playbook2.yml
+|4,55,11,0,1776861551,"~/playbook2.yml"
+'8  9  24  ~/playbook2.yml
+|4,56,9,24,1776861002,"~/playbook2.yml"
+'9  9  24  ~/playbook2.yml
+|4,57,9,24,1776861002,"~/playbook2.yml"
 
 # Jumplist (newest first):
+-'  9  25  ~/playbook3.yml
+|4,39,9,25,1776862595,"~/playbook3.yml"
+-'  1  177  ~/playbook3.yml
+|4,39,1,177,1776862517,"~/playbook3.yml"
+-'  11  4  ~/playbook3.yml
+|4,39,11,4,1776862459,"~/playbook3.yml"
+-'  12  6  ~/playbook3.yml
+|4,39,12,6,1776862347,"~/playbook3.yml"
+-'  12  6  ~/playbook3.yml
+|4,39,12,6,1776862320,"~/playbook3.yml"
+-'  1  0  ~/playbook3.yml
+|4,39,1,0,1776862160,"~/playbook3.yml"
+-'  1  0  ~/playbook3.yml
+|4,39,1,0,1776862160,"~/playbook3.yml"
+-'  11  0  ~/playbook2.yml
+|4,39,11,0,1776861551,"~/playbook2.yml"
+-'  11  0  ~/playbook2.yml
+|4,39,11,0,1776861551,"~/playbook2.yml"
+-'  11  0  ~/playbook2.yml
+|4,39,11,0,1776861551,"~/playbook2.yml"
+-'  11  0  ~/playbook2.yml
+|4,39,11,0,1776861551,"~/playbook2.yml"
+-'  11  0  ~/playbook2.yml
+|4,39,11,0,1776861551,"~/playbook2.yml"
+-'  11  0  ~/playbook2.yml
+|4,39,11,0,1776861551,"~/playbook2.yml"
+-'  11  0  ~/playbook2.yml
+|4,39,11,0,1776861551,"~/playbook2.yml"
 -'  11  0  ~/playbook2.yml
 |4,39,11,0,1776861551,"~/playbook2.yml"
 -'  9  24  ~/playbook2.yml
 |4,39,9,24,1776861451,"~/playbook2.yml"
 -'  9  24  ~/playbook2.yml
+|4,39,9,24,1776861451,"~/playbook2.yml"
+-'  9  24  ~/playbook2.yml
+|4,39,9,24,1776861451,"~/playbook2.yml"
+-'  9  24  ~/playbook2.yml
+|4,39,9,24,1776861451,"~/playbook2.yml"
+-'  9  24  ~/playbook2.yml
+|4,39,9,24,1776861451,"~/playbook2.yml"
+-'  9  24  ~/playbook2.yml
+|4,39,9,24,1776861451,"~/playbook2.yml"
+-'  9  24  ~/playbook2.yml
+|4,39,9,24,1776861451,"~/playbook2.yml"
+-'  9  24  ~/playbook2.yml
+|4,39,9,24,1776861451,"~/playbook2.yml"
+-'  9  24  ~/playbook2.yml
+|4,39,9,24,1776861002,"~/playbook2.yml"
+-'  9  24  ~/playbook2.yml
+|4,39,9,24,1776861002,"~/playbook2.yml"
+-'  9  24  ~/playbook2.yml
+|4,39,9,24,1776861002,"~/playbook2.yml"
+-'  9  24  ~/playbook2.yml
+|4,39,9,24,1776861002,"~/playbook2.yml"
+-'  9  24  ~/playbook2.yml
+|4,39,9,24,1776861002,"~/playbook2.yml"
+-'  9  24  ~/playbook2.yml
+|4,39,9,24,1776861002,"~/playbook2.yml"
+-'  9  24  ~/playbook2.yml
+|4,39,9,24,1776861002,"~/playbook2.yml"
+-'  9  24  ~/playbook2.yml
 |4,39,9,24,1776861002,"~/playbook2.yml"
 -'  11  2  ~/playbook2.yml
 |4,39,11,2,1776860981,"~/playbook2.yml"
+-'  11  2  ~/playbook2.yml
+|4,39,11,2,1776860981,"~/playbook2.yml"
+-'  11  2  ~/playbook2.yml
+|4,39,11,2,1776860981,"~/playbook2.yml"
+-'  11  2  ~/playbook2.yml
+|4,39,11,2,1776860981,"~/playbook2.yml"
+-'  11  2  ~/playbook2.yml
+|4,39,11,2,1776860981,"~/playbook2.yml"
+-'  11  2  ~/playbook2.yml
+|4,39,11,2,1776860981,"~/playbook2.yml"
+-'  11  2  ~/playbook2.yml
+|4,39,11,2,1776860981,"~/playbook2.yml"
+-'  11  2  ~/playbook2.yml
+|4,39,11,2,1776860981,"~/playbook2.yml"
+-'  11  2  ~/playbook2.yml
+|4,39,11,2,1776860817,"~/playbook2.yml"
+-'  11  2  ~/playbook2.yml
+|4,39,11,2,1776860817,"~/playbook2.yml"
+-'  11  2  ~/playbook2.yml
+|4,39,11,2,1776860817,"~/playbook2.yml"
+-'  11  2  ~/playbook2.yml
+|4,39,11,2,1776860817,"~/playbook2.yml"
+-'  11  2  ~/playbook2.yml
+|4,39,11,2,1776860817,"~/playbook2.yml"
+-'  11  2  ~/playbook2.yml
+|4,39,11,2,1776860817,"~/playbook2.yml"
+-'  11  2  ~/playbook2.yml
+|4,39,11,2,1776860817,"~/playbook2.yml"
 -'  11  2  ~/playbook2.yml
 |4,39,11,2,1776860817,"~/playbook2.yml"
 -'  1  41  ~/playbook2.yml
@@ -65,6 +149,90 @@
 |4,39,1,41,1776860656,"~/playbook2.yml"
 -'  1  41  ~/playbook2.yml
 |4,39,1,41,1776860656,"~/playbook2.yml"
+-'  1  41  ~/playbook2.yml
+|4,39,1,41,1776860656,"~/playbook2.yml"
+-'  1  41  ~/playbook2.yml
+|4,39,1,41,1776860656,"~/playbook2.yml"
+-'  1  41  ~/playbook2.yml
+|4,39,1,41,1776860656,"~/playbook2.yml"
+-'  1  41  ~/playbook2.yml
+|4,39,1,41,1776860656,"~/playbook2.yml"
+-'  1  41  ~/playbook2.yml
+|4,39,1,41,1776860656,"~/playbook2.yml"
+-'  1  41  ~/playbook2.yml
+|4,39,1,41,1776860656,"~/playbook2.yml"
+-'  1  41  ~/playbook2.yml
+|4,39,1,41,1776860656,"~/playbook2.yml"
+-'  1  41  ~/playbook2.yml
+|4,39,1,41,1776860656,"~/playbook2.yml"
+-'  1  41  ~/playbook2.yml
+|4,39,1,41,1776860656,"~/playbook2.yml"
+-'  1  41  ~/playbook2.yml
+|4,39,1,41,1776860656,"~/playbook2.yml"
+-'  1  41  ~/playbook2.yml
+|4,39,1,41,1776860656,"~/playbook2.yml"
+-'  1  41  ~/playbook2.yml
+|4,39,1,41,1776860656,"~/playbook2.yml"
+-'  1  41  ~/playbook2.yml
+|4,39,1,41,1776860656,"~/playbook2.yml"
+-'  1  41  ~/playbook2.yml
+|4,39,1,41,1776860656,"~/playbook2.yml"
+-'  1  41  ~/playbook2.yml
+|4,39,1,41,1776860656,"~/playbook2.yml"
+-'  1  41  ~/playbook2.yml
+|4,39,1,41,1776860656,"~/playbook2.yml"
+-'  1  41  ~/playbook2.yml
+|4,39,1,41,1776860656,"~/playbook2.yml"
+-'  1  41  ~/playbook2.yml
+|4,39,1,41,1776860656,"~/playbook2.yml"
+-'  1  41  ~/playbook2.yml
+|4,39,1,41,1776860656,"~/playbook2.yml"
+-'  1  41  ~/playbook2.yml
+|4,39,1,41,1776860656,"~/playbook2.yml"
+-'  1  41  ~/playbook2.yml
+|4,39,1,41,1776860656,"~/playbook2.yml"
+-'  2  38  ~/playbook2.yml
+|4,39,2,38,1776860569,"~/playbook2.yml"
+-'  2  38  ~/playbook2.yml
+|4,39,2,38,1776860569,"~/playbook2.yml"
+-'  2  38  ~/playbook2.yml
+|4,39,2,38,1776860569,"~/playbook2.yml"
+-'  2  38  ~/playbook2.yml
+|4,39,2,38,1776860569,"~/playbook2.yml"
+-'  2  38  ~/playbook2.yml
+|4,39,2,38,1776860569,"~/playbook2.yml"
+-'  2  38  ~/playbook2.yml
+|4,39,2,38,1776860569,"~/playbook2.yml"
+-'  2  38  ~/playbook2.yml
+|4,39,2,38,1776860569,"~/playbook2.yml"
+-'  2  38  ~/playbook2.yml
+|4,39,2,38,1776860569,"~/playbook2.yml"
+-'  2  38  ~/playbook2.yml
+|4,39,2,38,1776860569,"~/playbook2.yml"
+-'  2  38  ~/playbook2.yml
+|4,39,2,38,1776860569,"~/playbook2.yml"
+-'  2  38  ~/playbook2.yml
+|4,39,2,38,1776860569,"~/playbook2.yml"
+-'  2  38  ~/playbook2.yml
+|4,39,2,38,1776860569,"~/playbook2.yml"
+-'  2  38  ~/playbook2.yml
+|4,39,2,38,1776860569,"~/playbook2.yml"
+-'  2  38  ~/playbook2.yml
+|4,39,2,38,1776860569,"~/playbook2.yml"
+-'  2  38  ~/playbook2.yml
+|4,39,2,38,1776860569,"~/playbook2.yml"
+-'  2  38  ~/playbook2.yml
+|4,39,2,38,1776860569,"~/playbook2.yml"
+-'  2  38  ~/playbook2.yml
+|4,39,2,38,1776860569,"~/playbook2.yml"
+-'  2  38  ~/playbook2.yml
+|4,39,2,38,1776860569,"~/playbook2.yml"
+-'  2  38  ~/playbook2.yml
+|4,39,2,38,1776860569,"~/playbook2.yml"
+-'  2  38  ~/playbook2.yml
+|4,39,2,38,1776860569,"~/playbook2.yml"
+-'  2  38  ~/playbook2.yml
+|4,39,2,38,1776860569,"~/playbook2.yml"
 -'  2  38  ~/playbook2.yml
 |4,39,2,38,1776860569,"~/playbook2.yml"
 -'  2  38  ~/playbook2.yml
@@ -73,184 +241,41 @@
 |4,39,2,38,1776860569,"~/playbook2.yml"
 -'  11  112  ~/playbook2.yml
 |4,39,11,112,1776860291,"~/playbook2.yml"
--'  10  2  ~/playbook2.yml
-|4,39,10,2,1776860268,"~/playbook2.yml"
--'  10  2  ~/playbook2.yml
-|4,39,10,2,1776860268,"~/playbook2.yml"
--'  1  0  ~/playbook2.yml
-|4,39,1,0,1776860128,"~/playbook2.yml"
--'  1  0  ~/playbook2.yml
-|4,39,1,0,1776860128,"~/playbook2.yml"
--'  13  2  ~/playbook1.yml
-|4,39,13,2,1776859946,"~/playbook1.yml"
--'  13  2  ~/playbook1.yml
-|4,39,13,2,1776859946,"~/playbook1.yml"
--'  13  2  ~/playbook1.yml
-|4,39,13,2,1776859946,"~/playbook1.yml"
--'  13  2  ~/playbook1.yml
-|4,39,13,2,1776859946,"~/playbook1.yml"
--'  13  2  ~/playbook1.yml
-|4,39,13,2,1776859946,"~/playbook1.yml"
--'  13  2  ~/playbook1.yml
-|4,39,13,2,1776859946,"~/playbook1.yml"
--'  13  2  ~/playbook1.yml
-|4,39,13,2,1776859946,"~/playbook1.yml"
--'  13  2  ~/playbook1.yml
-|4,39,13,2,1776859946,"~/playbook1.yml"
--'  13  2  ~/playbook1.yml
-|4,39,13,2,1776859946,"~/playbook1.yml"
--'  13  2  ~/playbook1.yml
-|4,39,13,2,1776859946,"~/playbook1.yml"
--'  13  2  ~/playbook1.yml
-|4,39,13,2,1776859946,"~/playbook1.yml"
--'  13  2  ~/playbook1.yml
-|4,39,13,2,1776859946,"~/playbook1.yml"
--'  13  2  ~/playbook1.yml
-|4,39,13,2,1776859946,"~/playbook1.yml"
--'  13  2  ~/playbook1.yml
-|4,39,13,2,1776859946,"~/playbook1.yml"
--'  13  2  ~/playbook1.yml
-|4,39,13,2,1776859946,"~/playbook1.yml"
--'  13  2  ~/playbook1.yml
-|4,39,13,2,1776859946,"~/playbook1.yml"
--'  13  2  ~/playbook1.yml
-|4,39,13,2,1776859946,"~/playbook1.yml"
--'  13  2  ~/playbook1.yml
-|4,39,13,2,1776859946,"~/playbook1.yml"
--'  13  2  ~/playbook1.yml
-|4,39,13,2,1776859946,"~/playbook1.yml"
--'  13  2  ~/playbook1.yml
-|4,39,13,2,1776859946,"~/playbook1.yml"
--'  13  2  ~/playbook1.yml
-|4,39,13,2,1776859946,"~/playbook1.yml"
--'  13  2  ~/playbook1.yml
-|4,39,13,2,1776859946,"~/playbook1.yml"
--'  13  2  ~/playbook1.yml
-|4,39,13,2,1776859946,"~/playbook1.yml"
--'  13  2  ~/playbook1.yml
-|4,39,13,2,1776859946,"~/playbook1.yml"
--'  13  2  ~/playbook1.yml
-|4,39,13,2,1776859946,"~/playbook1.yml"
--'  13  2  ~/playbook1.yml
-|4,39,13,2,1776859946,"~/playbook1.yml"
--'  13  2  ~/playbook1.yml
-|4,39,13,2,1776859946,"~/playbook1.yml"
--'  13  2  ~/playbook1.yml
-|4,39,13,2,1776859946,"~/playbook1.yml"
--'  13  2  ~/playbook1.yml
-|4,39,13,2,1776859946,"~/playbook1.yml"
--'  13  2  ~/playbook1.yml
-|4,39,13,2,1776859946,"~/playbook1.yml"
--'  13  2  ~/playbook1.yml
-|4,39,13,2,1776859946,"~/playbook1.yml"
--'  13  2  ~/playbook1.yml
-|4,39,13,2,1776859946,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859927,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859927,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859927,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859927,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859927,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859927,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859927,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859927,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859927,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859927,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859927,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859927,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859927,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859927,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859927,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859927,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859927,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859927,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859927,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859927,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859927,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859927,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859927,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859927,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859927,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859927,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859927,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859927,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859927,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859927,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859927,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859927,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859848,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859848,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859848,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859848,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859848,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859848,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859848,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859848,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859848,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859848,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859848,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859848,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859848,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859848,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859848,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859848,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859848,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859848,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859848,"~/playbook1.yml"
--'  12  23  ~/playbook1.yml
-|4,39,12,23,1776859848,"~/playbook1.yml"
+-'  11  112  ~/playbook2.yml
+|4,39,11,112,1776860291,"~/playbook2.yml"
+-'  11  112  ~/playbook2.yml
+|4,39,11,112,1776860291,"~/playbook2.yml"
+-'  11  112  ~/playbook2.yml
+|4,39,11,112,1776860291,"~/playbook2.yml"
+-'  11  112  ~/playbook2.yml
+|4,39,11,112,1776860291,"~/playbook2.yml"
 
 # History of marks within files (newest to oldest):
+
+> ~/playbook3.yml
+	*	1776862592	0
+	"	9	25
+	^	9	26
+	.	9	25
+	+	13	0
+	+	1	37
+	+	1	193
+	+	1	61
+	+	1	85
+	+	1	94
+	+	1	117
+	+	1	135
+	+	1	158
+	+	1	176
+	+	1	96
+	+	1	119
+	+	1	136
+	+	1	159
+	+	1	177
+	+	1	3
+	+	12	2
+	+	10	20
+	+	9	25
 
 > ~/playbook2.yml
 	*	1776861550	0
